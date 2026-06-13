@@ -64,7 +64,7 @@ Business Bridge Hub is not a single product — it is a **growing ecosystem of W
 
 ### 🔹 BBH Lite Theme  
 Lightweight WordPress block theme focused on performance, accessibility, and clean architecture  
-→ https://github.com/businessbridgehub/bbh-lite  
+→ https://github.com/businessbridgehub/bbh-lite/
 
 ---
 
@@ -76,7 +76,7 @@ WordPress security diagnostics engine (scan • detect • analyze vulnerabiliti
 
 ### 🔹 BBH Custom Schema  
 Structured data generator for SEO + AEO optimization and search visibility enhancement  
-→ https://github.com/MdJahidShah/bbh-custom-schema  
+→ https://github.com/MdJahidShah/bbh-custom-schema/
 
 ---
 
