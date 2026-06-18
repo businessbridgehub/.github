@@ -121,7 +121,9 @@ Projects such as **BBH Security Insight**, **BBH Lite**, and other **Business Br
 
 If these tools help secure your websites, improve performance, or streamline your workflow, consider supporting ongoing development:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://www.buymeacoffee.com/jahidshah)
+<a href="https://www.buymeacoffee.com/jahidshah">
+  <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow" style="height:30px;" alt="Buy Me A Coffee">
+</a>
 
 ---
 
