@@ -115,7 +115,7 @@ We provide system-level remediation.
 
 ## 💡 Support the Ecosystem
 
-BusinessBridgeHub is maintained by [MdJahidShah](https://github.com/MdJahidShah/) and focuses on building open-source WordPress security, performance, and SEO tools for developers, agencies, and website owners.
+**Business Bridge Hub** is maintained by [MdJahidShah](https://github.com/MdJahidShah/) and focuses on building open-source WordPress security, performance, and SEO tools for developers, agencies, and website owners.
 
 Projects such as **BBH Security Insight**, **BBH Lite**, and other **Business Bridge Hub** [tools](https://businessbridgehub.com/products/) are actively maintained and continuously improved through community support.
 
