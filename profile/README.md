@@ -70,7 +70,7 @@ Lightweight WordPress block theme focused on performance, accessibility, and cle
 
 ### 🔹 BridgeHub Security Insight  
 WordPress security diagnostics engine (scan • detect • analyze vulnerabilities)  
-→ [https://wordpress.org/plugins/bbh-security-insight/](https://github.com/businessbridgehub/bbh-security-insight)
+→ [https://wordpress.org/plugins/bbh-security-insight/](https://github.com/businessbridgehub/bbh-security-insight/)
 
 ---
 
