@@ -82,7 +82,7 @@ Structured data generator for SEO + AEO optimization and search visibility enhan
 
 ### 🔹 BridgeHub Design Kit  
 Lightweight Elementor widget collection with modern, accessible, and performance-focused widgets for building professional WordPress websites.
-→ [https://github.com/MdJahidShah/bbh-custom-schema/](https://github.com/businessbridgehub/bridgehub-design-kit/)
+→ [https://github.com/businessbridgehub/bridgehub-design-kit/](https://github.com/businessbridgehub/bridgehub-design-kit/)
 
 ---
 
